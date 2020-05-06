@@ -1,0 +1,7 @@
+итого 26
+-rwxrwxrwx 1 pavel-info-addict pavel-info-addict   144 мая  6 13:00 README.md
+-rwxrwxrwx 1 pavel-info-addict pavel-info-addict   490 мая  6 13:20 out.txt
+-rwxrwxrwx 1 pavel-info-addict pavel-info-addict    76 мая  6 13:21 log.txt
+-rwxrwxrwx 1 pavel-info-addict pavel-info-addict  2611 мая  6 13:14 daemon.c
+-rwxrwxrwx 1 pavel-info-addict pavel-info-addict 17600 мая  6 13:21 daemon
+-rwxrwxrwx 1 pavel-info-addict pavel-info-addict    14 мая  6 13:13 cmd.txt
